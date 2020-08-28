@@ -1,0 +1,77 @@
+.navigation {
+    background-color: #F574F6;
+}
+
+.brand-name {
+    font-size: 3vmax;
+}
+
+#first {
+    text-align: center;
+    background-color: #F574F6;
+}
+
+.first-text {
+    font-size: 4vmax;
+    padding: 30% 15% 3%;
+}
+
+.price {
+    font-weight: bolder;
+}
+
+.slide-image {
+    width: 40vmax;
+    padding: 3% 1%;
+    border-radius: 25%;
+}
+#products {
+    background-color: #EB7B7D;
+}
+
+.pro {
+    margin-bottom: 0;
+}
+
+.product-heading {
+    font-size: 3vmax;
+}
+
+.product-image {
+    width:20vmax;
+}
+
+
+.price{
+    font-size: 4vmax;
+    font-weight: bolder;
+}
+
+.details {
+    font-size: 2vmax;
+}
+
+.ice-cream {
+    background-color: #F574F6;
+}
+
+#contact {
+    background-color: #EB7B7D;
+}
+
+.social-media {
+    text-align: center;
+}
+
+h4 {
+    display: inline-block;
+    margin: 2% 4%;
+    font-size: large;
+}
+.lnk {
+    color: darkslategrey;
+}
+.lnk:hover {
+    color: darkslategray;
+    text-decoration: none;
+}
